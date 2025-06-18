@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Power BI, MS Excel, VBA, SQL, Python, R and Statistics
 - 💞️ I’m looking to collaborate on Power BI project to expand my learning as I am a newbie.
 - 📫 How to reach me? Well, contact me at my e-mail: chakraborty.p1995@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 PriyajitC/PriyajitC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
